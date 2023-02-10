@@ -651,7 +651,6 @@ p {
     align-items: center;
     display: flex;
     justify-content: center;
-    padding: 20px; 
   }
   
   .footer-links a {
@@ -679,6 +678,7 @@ p {
 	width: 170px;
 	height: 130px;
 	object-fit: contain;
+	padding-bottom:20px;
   }
   .logo:nth-child(3){
 	display: block;
